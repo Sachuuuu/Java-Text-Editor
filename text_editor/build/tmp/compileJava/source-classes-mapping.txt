@@ -1,0 +1,42 @@
+text_editor/DatePlugin.java
+ text_editor.DatePlugin
+text_editor/FindPluging.java
+ text_editor.FindPluging
+text_editor/Plugins.java
+ text_editor.Plugins
+text_editor/API.java
+ text_editor.API
+text_editor/LoadAvailablePlugins.java
+ text_editor.LoadAvailablePlugins
+ text_editor.LoadAvailablePlugins$1
+text_editor/FunctionKeys.java
+ text_editor.FunctionKeys
+ text_editor.FunctionKeys$1
+ text_editor.FunctionKeys$2
+text_editor/ShortKeys.java
+ text_editor.ShortKeys
+text_editor/MainGUI.java
+ text_editor.MainGUI
+ text_editor.MainGUI$1
+ text_editor.MainGUI$10
+ text_editor.MainGUI$11
+ text_editor.MainGUI$12
+ text_editor.MainGUI$13
+ text_editor.MainGUI$14
+ text_editor.MainGUI$15
+ text_editor.MainGUI$16
+ text_editor.MainGUI$17
+ text_editor.MainGUI$18
+ text_editor.MainGUI$19
+ text_editor.MainGUI$2
+ text_editor.MainGUI$20
+ text_editor.MainGUI$3
+ text_editor.MainGUI$4
+ text_editor.MainGUI$5
+ text_editor.MainGUI$6
+ text_editor.MainGUI$7
+ text_editor.MainGUI$8
+ text_editor.MainGUI$9
+text_editor/FileSave.java
+ text_editor.FileSave
+ text_editor.FileSave$1

@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'jacoco'
+apply plugin: 'application'
+
+
+mainClassName = 'text_editor.Main'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation     'junit:junit:4.13'
+    implementation group: 'org.python', name: 'jython-standalone', version: '2.7.1'
+
+}
